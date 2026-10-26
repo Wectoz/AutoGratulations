@@ -1,5 +1,7 @@
 # Auto Gratulations
 
+> **Experimental / work in progress.** This is an unfinished test version, not a stable release. In-game testing is still required; bugs and client compatibility issues are expected.
+
 Automatically sends a congratulations message to PARTY chat when another party
 member's observed level increases. Five messages rotate in order, with the next
 message remembered between sessions. Your own level-ups and raids are ignored.
@@ -45,3 +47,16 @@ To verify in game:
    appear. Raid groups and your own level-ups should produce no messages.
 
 This addon has not yet been tested inside WoW.
+
+## Feedback and contributions
+
+Bug reports and pull requests are welcome on [GitHub](https://github.com/Wectoz/AutoGratulations/issues).
+Include your WoW client version, addon version, steps to reproduce, and any Lua
+error message. Remove personal information before posting logs or screenshots.
+
+## License
+
+The addon code is available under the [MIT License](LICENSE).
+World of Warcraft names, trademarks, and game assets belong to their respective
+owners. The license does not grant rights to those assets. This is an unofficial
+community addon and is not affiliated with or endorsed by Blizzard Entertainment.
