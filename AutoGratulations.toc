@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Auto Gratulations
+## Notes: Congratulates party members when their level increases.
+## Author: Philip
+## Version: 1.0.0
+## SavedVariables: AutoGratulationsDB
+
+AutoGratulations.lua
